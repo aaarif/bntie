@@ -35,7 +35,7 @@ def convertDecimalToBinary(decimal_number):
 
 
 def longestPalindrome(string):
-  #Question 2
+  	#Question 2
 	string_without_space = string.replace(" ", "")
 	maxLength = 1
  
